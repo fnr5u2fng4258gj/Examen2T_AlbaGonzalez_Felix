@@ -6,7 +6,6 @@ import org.junit.jupiter.api.*;
 public class CAJA_NEGRA_FélixAlbaGonzález {
 	
 	//Pruebas de caja negra de limites
-	//
 	
 	@Test
 	void pruebaLimiteProcesarPedido() {
